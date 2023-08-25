@@ -1,7 +1,9 @@
-body{
+.container{
     min-height: 50;
     background-color:white;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    background-size: cover; 
 }
+
